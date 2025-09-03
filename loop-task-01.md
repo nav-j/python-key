@@ -51,5 +51,3 @@ for i in range(1, rows + 1):
 * **String multiplication**
 * **Basic output formatting**
 
-Would you like me to also prepare a **second README** for the *diamond-shaped* pattern version? ⭐
-```
