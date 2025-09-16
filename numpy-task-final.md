@@ -12,9 +12,6 @@ Write a Python program that uses **NumPy** to perform basic mathematical and arr
    - Find the **sum, mean, max, and min** of the array.  
    - Multiply all elements by `2`.  
    - Create a **reshaped 2D array (2x5)** from the original array.  
-   - Generate a **random 3x3 NumPy array** with values between `0 and 1`.  
-   - Find the **transpose** of the random array.  
-
 ---
 
 ## 💻 Solution Code  
@@ -63,17 +60,6 @@ Array multiplied by 2: [ 2  4  6  8 10 12 14 16 18 20 ]
 Reshaped 2x5 Array:
 [[ 1  2  3  4  5]
  [ 6  7  8  9 10]]
-
-Random 3x3 Array:
-[[0.23 0.56 0.89]
- [0.12 0.45 0.67]
- [0.78 0.34 0.91]]
-
-Transpose of Random Array:
-[[0.23 0.12 0.78]
- [0.56 0.45 0.34]
- [0.89 0.67 0.91]]
-```
 
 ---
 
