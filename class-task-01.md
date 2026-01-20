@@ -1,4 +1,3 @@
-````markdown
 # Python Practice Task – Student Information System
 
 ## Problem Statement
@@ -13,10 +12,10 @@ Write a Python program that uses **classes and objects** to manage student infor
 
 ---
 
-## ✅ Solution Code
+##  Solution Code
 
 ```python
-# 🐍 Student Information System using Class & Objects
+#  Student Information System using Class & Objects
 
 # Define a class
 class Student:
@@ -43,7 +42,7 @@ student2.display_info()
 
 ---
 
-## 🖥 Example Output
+## Example Output
 
 ```
 Student Name: John
