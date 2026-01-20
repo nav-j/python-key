@@ -1,4 +1,3 @@
-```markdown
 # Python Practice Task  
 
 ## Task: Bank Account Management  
@@ -8,7 +7,7 @@ Write a Python program that simulates a simple **bank account system** using **c
 
 ---
 
-### ✅ Requirements  
+###  Requirements  
 
 1. Create a class `BankAccount` with:  
 
@@ -27,7 +26,7 @@ Write a Python program that simulates a simple **bank account system** using **c
 
 ---
 
-### 🔎 Example Output  
+###  Example Output  
 
 ```
 ```
@@ -49,7 +48,7 @@ Final Balance: 300
 
 ---
 
-### 📝 Starter Code  
+###  Starter Code  
 
 ```python
 # Class definition
@@ -90,7 +89,7 @@ main()
 
 ---
 
-### 💡 Hint
+###  Hint
 
 * Use `self` to access attributes inside the class.
 * Always check for sufficient balance before withdrawing.
