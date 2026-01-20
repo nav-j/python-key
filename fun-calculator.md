@@ -1,4 +1,3 @@
-```markdown
 # Python Practice Task
 
 ## Task: Calculator using Functions
@@ -18,10 +17,9 @@ Write a Python program that:
    - Call the respective function and print the result.  
 
 ---
-```
-### 💻 Example Output
-```
 
+### Example Output
+```
 Enter first number: 12
 Enter second number: 4
 Choose operation (+, -, \*, /): \*
@@ -29,11 +27,8 @@ Choose operation (+, -, \*, /): \*
 Result: 12 \* 4 = 48
 
 ```
-````
-
 ---
-
-### 📝 Starter Code
+### Starter Code
 ```python
 # Function for addition
 def add(x, y):
@@ -73,7 +68,7 @@ def main():
 # Run program
 main()
 ````
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 * Understand how to **define and use functions** in Python.
 * Learn to handle **basic arithmetic operations**.
