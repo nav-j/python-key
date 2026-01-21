@@ -1,11 +1,10 @@
-```markdown
 # Python Practice Task - Set Operations Playground
 
 A beginner-friendly Python practice task to explore **set operations**.
 
 ---
 
-## 📝 Task Description
+## Task Description
 
 Write a Python program that:
 
@@ -18,7 +17,7 @@ Write a Python program that:
 
 ---
 
-## 💻 Example Run
+## Example Run
 
 ```
 
@@ -35,10 +34,10 @@ Symmetric Difference: {1, 2, 5, 6}
 
 ---
 
-## 🚀 Solution Code
+## Solution Code
 
 ```python
-# 🐍 Set Operations Playground
+# Set Operations Playground
 
 # Taking input from user
 first_set = set(map(int, input("Enter first set (numbers separated by space): ").split()))
@@ -54,7 +53,7 @@ print("Symmetric Difference:", first_set ^ second_set)
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 * Understand the concept of **sets** in Python.
 * Practice basic **set operations**: union, intersection, difference, and symmetric difference.
