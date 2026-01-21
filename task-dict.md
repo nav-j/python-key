@@ -1,11 +1,10 @@
-```markdown
 # Python Practice Task - Student Score Manager
 
 A beginner-friendly Python practice task to understand and use **dictionaries** in Python.
 
 ---
 
-## 📝 Task Description
+## Task Description
 
 Write a Python program that:
 
@@ -21,7 +20,7 @@ Write a Python program that:
 
 ---
 
-## 💻 Example Run
+## Example Run
 
 ```
 ```
@@ -43,10 +42,10 @@ Top Scorer: Bob with 92
 
 ---
 
-## 🚀 Solution Code
+## Solution Code
 
 ```python
-# 🐍 Student Score Manager
+#  Student Score Manager
 
 # Empty dictionary to store student records
 student_scores = {}
@@ -71,7 +70,7 @@ print(f"Top Scorer: {top_student} with {student_scores[top_student]}")
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 * Learn how to create and use **dictionaries** in Python.
 * Understand how to **store key-value pairs**.
