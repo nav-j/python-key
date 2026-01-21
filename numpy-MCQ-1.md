@@ -1,15 +1,10 @@
-Perfect 👍 I’ll convert your **NumPy test** into a nicely formatted **README.md** so it looks professional for students to practice.
-
----
-
-````markdown
-# 🧮 NumPy MCQ & Practice Test  
+# NumPy MCQ & Practice Test  
 
 This test will help you practice the basics of **NumPy for Data Science**.  
 
 ---
 
-## 📌 Questions  
+## Questions  
 
 ### 1. What does NumPy stand for?  
 - [ ] Number Picker  
@@ -254,7 +249,7 @@ x = arr.view()
 
 ---
 
-## ✅ Result
+## Result
 
 This test checks your understanding of:
 
