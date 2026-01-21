@@ -1,4 +1,3 @@
-```markdown
 # Python Practice Task  
 
 ## Task: Dynamic Reverse Pyramid Pattern  
@@ -11,7 +10,7 @@ Write a Python program that prints a **reverse pyramid pattern** of stars (`*`) 
 
 ---
 
-### ✅ Example Output  
+### Example Output  
 
 #### For 3 rows:
 ```
@@ -33,7 +32,7 @@ Write a Python program that prints a **reverse pyramid pattern** of stars (`*`) 
 ```
 ````
 
-### 📝 Starter Code  
+### Starter Code  
 
 ```python
 # Take number of rows from user
@@ -48,7 +47,7 @@ for i in range(rows):
 
 ---
 
-### 💡 Hint
+### Hint
 
 * Use `" " * i` to shift stars to the right.
 * Use `"*" * (2 * (rows - i) - 1)` to print stars in decreasing odd sequence.
