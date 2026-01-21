@@ -1,4 +1,3 @@
-```markdown
 #  Python Practice Task
 
 ## Task: Array Operations Playground
@@ -19,7 +18,7 @@ Write a Python program that:
 
 ---
 ```
-### 💻 Example Output
+###  Example Output
 ```
 
 Initial Array: \[]
@@ -37,7 +36,7 @@ Reversing → \[20, 15, 7, 3]
 
 ---
 ```
-### 📝 Starter Code
+###  Starter Code
 ```python
 # Functions using array methods
 def add_element(arr, value):
@@ -94,7 +93,7 @@ def main():
 # Run program
 main()
 ````
-### 🎯 Learning Outcome
+### Learning Outcome
 
 * Learn how to use **Python list methods**:
   `.append()`, `.insert()`, `.remove()`, `.pop()`, `.sort()`, `.reverse()`.
