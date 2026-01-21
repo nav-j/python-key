@@ -1,6 +1,6 @@
-# 📘 Python Tuple Practice – Tasks & Solutions
+#  Python Tuple Practice – Tasks & Solutions
 
-## 🔹 Task 1: Basic Tuple Operations
+##  Task 1: Basic Tuple Operations
 
 ### Problem
 
@@ -18,7 +18,7 @@ Perform these tasks:
 4. Repeat the tuple twice.
 5. Convert to list, add `"orange"`, then convert back to tuple.
 
-### ✅ Solution
+### Solution
 
 ```python
 fruits = ("apple", "banana", "cherry", "apple", "mango", "banana")
@@ -59,7 +59,7 @@ student = ("Alice", 21, "Computer Science", "Delhi")
 2. Convert to list, change age → `22`, add `"Python"`, convert back to tuple.
 3. Unpack into variables and print each separately.
 
-### ✅ Solution
+###  Solution
 
 ```python
 student = ("Alice", 21, "Computer Science", "Delhi")
@@ -83,7 +83,7 @@ print("Subject:", subject)
 
 ---
 
-## 🔹 Task 3: Loop, Join & Multiply Tuples
+## Task 3: Loop, Join & Multiply Tuples
 
 ### Problem
 
@@ -99,7 +99,7 @@ letters = ("A", "B", "C")
 3. Join the two tuples.
 4. Repeat `letters` 3 times and `numbers` 2 times.
 
-### ✅ Solution
+### Solution
 
 ```python
 numbers = (1, 2, 3, 4, 5)
@@ -124,7 +124,7 @@ print("Numbers repeated 2 times:", numbers * 2)
 
 ---
 
-## 🔹 Task 4: Challenge – Mastering Tuples
+## Task 4: Challenge – Mastering Tuples
 
 ### Problem
 
@@ -144,7 +144,7 @@ Perform:
 5. Join student & marks into one tuple.
 6. Repeat `marks` twice, repeat `("Python",)` three times.
 
-### ✅ Solution
+### Solution
 
 ```python
 student = ("Alice", 21, "Computer Science", "Delhi")
@@ -188,7 +188,7 @@ print("Python repeated 3 times:", ("Python",) * 3)
 
 ---
 
-✅ This single file covers:
+ This single file covers:
 
 * Accessing
 * Updating
