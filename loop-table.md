@@ -1,4 +1,3 @@
-````markdown
 # Multiplication Table Program
 
 This simple Python program generates a **multiplication table** for any number entered by the user.
@@ -30,7 +29,7 @@ Enter any number : 7
 
 ---
 
-## 🎯 Concepts Used
+##  Concepts Used
 
 * **User Input** (`input()`)
 * **Type Conversion** (`int()`)
