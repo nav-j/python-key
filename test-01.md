@@ -1,13 +1,10 @@
-
-
-````markdown
-# 🐍 Simple Student Score Program
+# Simple Student Score Program
 
 This is a beginner-friendly Python program that practices **input, string functions, list functions, and operators**.
 
 ---
 
-## 📌 Features
+##  Features
 1. **Input**
    - Takes student name and marks as input from the user.
 
@@ -26,7 +23,7 @@ This is a beginner-friendly Python program that practices **input, string functi
 
 ---
 
-## 📝 Program Code
+##  Program Code
 
 ```python
 # Step 1: Input
@@ -62,7 +59,7 @@ else:
 
 ---
 
-## 💻 Sample Run
+##  Sample Run
 
 ```
 Enter student name: Raj
@@ -86,7 +83,7 @@ Result: Pass
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * How to take **user input** in Python.
 * Using **string functions** like `.upper()` and indexing.
