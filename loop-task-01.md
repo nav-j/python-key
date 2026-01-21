@@ -1,4 +1,3 @@
-```markdown
 # Python Task – Star Pattern
 
 This beginner-friendly Python program prints a simple **star pattern** using loops.
@@ -17,14 +16,14 @@ Write a Python program that prints the following pattern:
 *****
 ---
 
-## 💡 Hints
+##  Hints
 
 - Use a **for loop** to control the number of rows.  
 - In each iteration, print stars (`*`) equal to the row number.  
 - Python allows string multiplication (`"*" * n`) to repeat characters easily.  
 ```
 ---
-## ✅ Expected Output
+##  Expected Output
 *
 **
 ***
@@ -32,7 +31,7 @@ Write a Python program that prints the following pattern:
 *****
 ---
 ```
-## 📝 Example Solution
+##  Example Solution
 
 ```python
 # Star Pattern Program
@@ -45,7 +44,7 @@ for i in range(1, rows + 1):
 
 ---
 
-## 🎯 Concepts Practiced
+##  Concepts Practiced
 
 * **Loops** (`for`)
 * **String multiplication**
