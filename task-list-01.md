@@ -1,4 +1,3 @@
-````markdown
 # Python Practice Task - List Manager
 
 This is a beginner-friendly Python program to practice **list operations**.  
@@ -24,10 +23,10 @@ The program allows the user to input numbers and perform various list manipulati
 
 ---
 
-## 📝 Program Code
+## Program Code
 
 ```python
-# 🐍 List Manager
+# List Manager
 
 # Step 1: Input
 numbers = list(map(int, input("Enter 5 numbers separated by space: ").split()))
@@ -71,7 +70,7 @@ print(f"Is {search_num} in the list?", search_num in numbers)
 
 ---
 
-## 💻 Sample Run
+## Sample Run
 
 ```
 Enter 5 numbers separated by space: 10 5 20 15 8
@@ -100,7 +99,7 @@ Is 20 in the list? True
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * How to take **list input** from the user.
 * Using built-in functions: `sum()`, `max()`, `min()`.
