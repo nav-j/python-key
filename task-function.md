@@ -1,4 +1,3 @@
-```markdown
 #  Python Practice Task
 
 ## Task: Student Grade Calculator
@@ -21,7 +20,7 @@ Write a Python program that:
 
 ---
 
-### 💻 Example Output
+### Example Output
 ```
 
 Enter student name: Alice
@@ -35,7 +34,7 @@ Grade: B
 
 ---
 
-### 📝 Starter Code
+### Starter Code
 ```python
 # Function to calculate grade
 def calculate_grade(marks):
@@ -65,7 +64,7 @@ main()
 
 ---
 
-### 🚀 How to Run
+### How to Run
 
 1. Save the code in a file named **`grade_calculator.py`**
 2. Open terminal/command prompt and run:
@@ -77,7 +76,7 @@ main()
 
 ---
 
-### 🎯 Learning Outcome
+### Learning Outcome
 
 * Understand **functions** in Python.
 * Practice **if-elif-else** conditions.
