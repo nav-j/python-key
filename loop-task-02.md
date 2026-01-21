@@ -1,4 +1,3 @@
-```markdown
 # Python Task – Number Pattern
 
 This Python program prints a simple **number pattern** using loops.
@@ -21,7 +20,7 @@ Write a Python program that prints the following pattern:
 ```
 ---
 
-## 💡 Hints
+## Hints
 
 - Use a **for loop** to control the number of rows.  
 - Inside the loop, use another **for loop** (or string join) to print numbers from **1 to i**.  
@@ -29,7 +28,7 @@ Write a Python program that prints the following pattern:
 
 ---
 
-## ✅ Expected Output
+## Expected Output
 
 ```
 ```
@@ -43,7 +42,7 @@ Write a Python program that prints the following pattern:
 
 ---
 
-## 📝 Example Solution
+## Example Solution
 
 ```python
 # Number Pattern Program
@@ -58,7 +57,7 @@ for i in range(1, rows + 1):
 
 ---
 
-## 🎯 Concepts Practiced
+## Concepts Practiced
 
 * **Nested loops** (`for` inside another `for`)
 * **Number sequence printing**
