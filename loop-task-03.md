@@ -1,9 +1,6 @@
-```markdown
-#  Python Practice Task  
-
 ## Task: Upright Pyramid Pattern  
 
-### 📌 Problem Statement  
+###  Problem Statement  
 Write a Python program that prints an **upright pyramid pattern** of stars (`*`) based on the number of rows entered by the user.  
 
 - The number of stars increases with each row.  
@@ -11,7 +8,7 @@ Write a Python program that prints an **upright pyramid pattern** of stars (`*`)
 
 ---
 
-### ✅ Example Output  
+### Example Output  
 
 #### For 3 rows:
 ```
@@ -35,7 +32,7 @@ Write a Python program that prints an **upright pyramid pattern** of stars (`*`)
 
 ---
 
-### 📝 Starter Code  
+### Starter Code  
 
 ```python
 # Take number of rows from user
@@ -50,7 +47,7 @@ for i in range(rows):
 
 ---
 
-### 💡 Hint
+### Hint
 
 * Use `" " * (rows - i - 1)` to add spaces before stars.
 * Use `"*" * (2 * i + 1)` to print stars in odd sequence (1, 3, 5, …).
