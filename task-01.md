@@ -1,12 +1,10 @@
-
-```markdown
-# 📝 String Formatter (Python Task)
+# String Formatter (Python Task)
 
 This is a simple Python program to practice **string functions**.
 
 ---
 
-## 📌 Task Description
+##  Task Description
 
 Write a Python program that:
 
@@ -19,7 +17,7 @@ Write a Python program that:
 
 ---
 
-## ✅ Example Output
+##  Example Output
 
 ```
 
@@ -34,7 +32,7 @@ Split into words: \['Python', 'is', 'Fun']
 
 ---
 
-## 💻 Solution
+## Solution
 
 ```python
 # String Formatter
@@ -51,7 +49,7 @@ print("Split into words:", sentence.split())
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 * Using `.upper()` to convert text to uppercase
 * Using `.lower()` to convert text to lowercase
