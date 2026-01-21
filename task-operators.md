@@ -1,12 +1,10 @@
-
-````markdown
-# 🐍 Operator Playground
+# Operator Playground
 
 This is a simple Python practice program to learn and use different **operators** in Python.
 
 ---
 
-## 📌 Features
+##  Features
 
 1. **Arithmetic Operators**
    - Perform addition, subtraction, multiplication, and division.
@@ -29,10 +27,10 @@ This is a simple Python practice program to learn and use different **operators*
 
 ---
 
-## 📝 Program Code
+##  Program Code
 
 ```python
-# 🐍 Operator Playground
+# Operator Playground
 
 # Step 1: Input
 num1 = int(input("Enter first number: "))
@@ -74,7 +72,7 @@ print("Are both numbers same object?", num1 is num2)
 
 ---
 
-## 💻 Sample Run
+##  Sample Run
 
 ```
 Enter first number: 10
@@ -107,7 +105,7 @@ Are both numbers same object? False
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Understand and apply different **Python operators**:
 
