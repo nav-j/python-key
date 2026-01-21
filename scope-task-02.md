@@ -5,7 +5,7 @@ Demonstrate **local, global, and nonlocal variables** in Python and how **scope*
 
 ---
 
-## 📝 Requirements
+##  Requirements
 1. **Global Variable**
    - Create a global variable `counter = 0`.
    - Write a function `increment_global()` that increments the global `counter` using the `global` keyword.
@@ -20,7 +20,7 @@ Demonstrate **local, global, and nonlocal variables** in Python and how **scope*
 
 ---
 
-## 💻 Example Code
+##  Example Code
 
 ```python
 # Global variable
@@ -49,7 +49,7 @@ def outer_function():
     print("Outer counter after inner:", counter)
 
 
-# ✅ Example usage
+# Example usage
 increment_global()   # Modifies global counter
 increment_local()    # Modifies local counter only
 outer_function()     # Modifies nonlocal counter
@@ -58,7 +58,7 @@ print("Global counter at end:", counter)
 
 ---
 
-## 🎯 Sample Output
+##  Sample Output
 
 ```
 Global counter: 1
