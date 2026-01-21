@@ -1,12 +1,10 @@
-
-```markdown
-# 📝 String Playground (Python Assignment)
+#  String Playground (Python Assignment)
 
 This program is a practice set to explore different **Python string functions** such as `format()`, `center()`, `partition()`, `join()`, indexing, slicing, and more.  
 
 ---
 
-## 📌 Tasks
+##  Tasks
 
 ### **1. Using `format()`**
 Ask the user for their **name** and **age**, and print:  
@@ -73,7 +71,7 @@ On the same sentence (from Task 3), apply:
 
 ---
 
-## ✅ Example Output
+##  Example Output
 
 ```
 Enter your name: Alice
@@ -98,7 +96,7 @@ Ends with !? False
 
 ---
 
-## 💻 Solution
+##  Solution
 
 ```python
 # String Playground
@@ -132,7 +130,7 @@ print("Ends with !?", sentence.endswith("!"))
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 * Using `format()` for formatted output
 * Centering strings with `center()`
