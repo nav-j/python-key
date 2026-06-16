@@ -23,7 +23,6 @@ Write a Python program that:
 ## Example Run
 
 ```
-```
 Enter student 1 name: Alice
 Enter Alice's score: 85
 Enter student 2 name: Bob
@@ -38,7 +37,6 @@ All Scores: \[85, 92, 78]
 Top Scorer: Bob with 92
 
 ```
-````
 
 ---
 
