@@ -16,26 +16,20 @@ Write a Python program that:
 
 3. Print the updated array after each operation.  
 
----
-```
 ###  Example Output
 ```
+Initial Array: []
 
-Initial Array: \[]
-
-Adding 10 → \[10]
-Adding 5 → \[10, 5]
-Inserting 7 at index 1 → \[10, 7, 5]
-Removing 10 → \[7, 5]
-Popping last element → \[7]
-Adding 20, 3, 15 → \[7, 20, 3, 15]
-Sorting → \[3, 7, 15, 20]
-Reversing → \[20, 15, 7, 3]
-
+Adding 10 → [10]
+Adding 5 → [10, 5]
+Inserting 7 at index 1 → [10, 7, 5]
+Removing 10 → [7, 5]
+Popping last element → [7]
+Adding 20, 3, 15 → [7, 20, 3, 15]
+Sorting → [3, 7, 15, 20]
+Reversing → [20, 15, 7, 3]
 ````
-
 ---
-```
 ###  Starter Code
 ```python
 # Functions using array methods
