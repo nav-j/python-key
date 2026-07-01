@@ -1,4 +1,4 @@
-# 🐍 Python Tasks Using `if`, `elif`, and `else`
+# Python Tasks Using `if`, `elif`, and `else`
 
 ## Task 1: Check Positive, Negative, or Zero
 
