@@ -2,13 +2,10 @@
 
 This Python program prints a simple **number pattern** using loops.
 
----
-
 ## Task
 
 Write a Python program that prints the following pattern:
 
-```
 ```
 1
 12
@@ -17,8 +14,6 @@ Write a Python program that prints the following pattern:
 12345
 
 ```
-```
----
 
 ## Hints
 
@@ -31,16 +26,12 @@ Write a Python program that prints the following pattern:
 ## Expected Output
 
 ```
-```
 1
 12
 123
 1234
 12345
 ```
-````
-
----
 
 ## Example Solution
 
@@ -55,14 +46,8 @@ for i in range(1, rows + 1):
     print()
 ````
 
----
-
 ## Concepts Practiced
 
 * **Nested loops** (`for` inside another `for`)
 * **Number sequence printing**
 * **Using `end=""` in print statements**
-
----
-
-✅ A great exercise to strengthen your understanding of **loops** and **pattern printing** in Python!
