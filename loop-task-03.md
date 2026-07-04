@@ -6,21 +6,15 @@ Write a Python program that prints an **upright pyramid pattern** of stars (`*`)
 - The number of stars increases with each row.  
 - Each row is centered using spaces.  
 
----
-
 ### Example Output  
 
 #### For 3 rows:
-```
 ```
   * 
  *** 
 ***** 
 ```
-```
 #### For 5 rows:
-```
-
 ```
     *
    ***
@@ -28,9 +22,7 @@ Write a Python program that prints an **upright pyramid pattern** of stars (`*`)
  *******
 *********
 
-````
-
----
+```
 
 ### Starter Code  
 
@@ -44,8 +36,6 @@ for i in range(rows):
     # Print stars (increases each row: 1, 3, 5, ...)
     print("*" * (2 * i + 1))
 ````
-
----
 
 ### Hint
 
