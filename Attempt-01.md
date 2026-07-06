@@ -1,4 +1,4 @@
-# 🐍 Python Combined Theory + Practical Assignment
+## Python Combined Theory + Practical Assignment
 
 ## Topic: Data Types, Variables, User Input, List & Tuple
 
@@ -8,13 +8,9 @@
 
 ### Total Marks: 50
 
----
-
-# Part A – Theory (20 Marks)
+## Part A – Theory (20 Marks)
 
 ### Q1. What is a variable in Python? Give one example. (2 Marks)
-
----
 
 ### Q2. What is the difference between `int`, `float`, `str`, and `bool` data types? (4 Marks)
 
@@ -25,11 +21,7 @@
 | str       |             |         |
 | bool      |             |         |
 
----
-
 ### Q3. What is the purpose of the `input()` function in Python? (2 Marks)
-
----
 
 ### Q4. Differentiate between List and Tuple. (4 Marks)
 
@@ -38,8 +30,6 @@
 | Syntax            |      |       |
 | Mutable/Immutable |      |       |
 | Example           |      |       |
-
----
 
 ### Q5. Write the output of the following code: (4 Marks)
 
@@ -53,10 +43,6 @@ print(type(y))
 
 Output:
 
----
-
----
-
 ### Q6. Fill in the blanks: (4 Marks)
 
 1. A list is enclosed within __________.
@@ -64,9 +50,7 @@ Output:
 3. The function used to take input from a user is __________.
 4. `True` and `False` belong to the __________ data type.
 
----
-
-# Part B – Practical (30 Marks)
+## Part B – Practical (30 Marks)
 
 ## Scenario:
 
@@ -90,9 +74,6 @@ Example:
 ```python
 name = input("Enter Name: ")
 ```
-
----
-
 ### Task 2: Data Types (5 Marks)
 
 Display the data type of each variable using:
@@ -107,9 +88,6 @@ Example Output:
 Name Data Type: <class 'str'>
 Age Data Type: <class 'int'>
 ```
-
----
-
 ### Task 3: Create a List (5 Marks)
 
 Ask the user to enter marks of 3 subjects.
@@ -129,8 +107,6 @@ Perform the following:
 3. Print lowest mark.
 4. Print total marks.
 
----
-
 ### Task 4: Create a Tuple (5 Marks)
 
 Create a tuple named `subjects`.
@@ -146,8 +122,6 @@ Perform the following:
 3. Print the last subject.
 4. Count total subjects.
 
----
-
 ### Task 5: List Operations (5 Marks)
 
 Perform these operations on the `marks` list:
@@ -156,8 +130,6 @@ Perform these operations on the `marks` list:
 2. Remove a mark using `remove()`.
 3. Sort the list.
 4. Display the updated list.
-
----
 
 ### Task 6: Final Student Report (5 Marks)
 
@@ -180,9 +152,6 @@ Lowest Mark : 78
 Total Marks : 253
 ====================================
 ```
-
----
-
 # Bonus Challenge (Optional – 5 Extra Marks)
 
 1. Calculate the average of all marks.
@@ -194,9 +163,6 @@ Condition:
 Average >= 40 → Pass
 Average < 40  → Fail
 ```
-
----
-
 # Learning Outcomes
 
 After completing this assignment, students will be able to:
@@ -359,15 +325,3 @@ Average      : 90.0
 Result       : Pass
 ========================================
 ```
-
-This solution covers:
-
-* Variables
-* User Input
-* Data Types (`str`, `int`)
-* Lists
-* Tuples
-* List Methods (`append()`, `remove()`, `sort()`)
-* Built-in Functions (`max()`, `min()`, `sum()`, `len()`)
-* Conditional Statements (`if-else`)
-* Formatted Report Generation
