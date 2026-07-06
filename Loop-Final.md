@@ -1,7 +1,3 @@
-There are **20 tasks plus 8 challenge tasks**. Providing complete solutions for all of them in one response would be extremely long.
-
-I can provide them in parts:
-
 ### Part 1 (Tasks 1–5)
 
 ```python
