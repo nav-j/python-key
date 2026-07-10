@@ -1,4 +1,4 @@
-# 🐍 Python Assignment (Theory + Practical)
+## Python Assignment (Theory + Practical)
 
 ## Topic: List, Tuple, Set, Dictionary, Loops, Functions & Range
 
