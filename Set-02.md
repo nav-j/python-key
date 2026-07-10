@@ -1,4 +1,4 @@
-# 🐍 Python Set Assignment – Student Club Management System
+## Python Set Assignment – Student Club Management System
 
 ## Objective
 
