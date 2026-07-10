@@ -1,4 +1,4 @@
-# 🐍 Python Test Assignment
+## Python Test Assignment
 
 ## Topic: Variables, Type Casting, Operators, Lists & List Methods
 
