@@ -1,6 +1,6 @@
-## 📝 Python String Functions Practice Task
+## Python String Functions Practice Task
 
-### 🎯 Objective
+###  Objective
 
 Create a Python program that uses the following string functions and concepts:
 
@@ -16,7 +16,7 @@ Create a Python program that uses the following string functions and concepts:
 
 ---
 
-## 📌 Task: Student Information Formatter
+##  Task: Student Information Formatter
 
 Write a Python program that performs the following operations:
 
