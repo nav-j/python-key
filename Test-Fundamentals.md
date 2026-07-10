@@ -1,11 +1,6 @@
-# 🐍 Python Fundamentals Assignment
+## Python Fundamentals Assignment
 
-## 📖 Overview
-
-This assignment is designed for beginners to practice the fundamental concepts of Python programming. Students will learn how to work with variables, data types, user input, string methods, arithmetic operators, and assignment operators while creating a simple **Student Profile and Marks Calculator** program.
-
-
-## 📝 Assignment Tasks
+##  Assignment Tasks
 
 ### Task 1: Variables and User Input
 
@@ -78,7 +73,7 @@ Generate a formatted report containing:
 
 ---
 
-## ⭐ Bonus Challenge
+##  Bonus Challenge
 
 Create a variable:
 
@@ -99,7 +94,7 @@ Display the balance after each operation.
 
 ---
 
-## 📂 Expected Output
+##  Expected Output
 
 ```text
 ========== STUDENT REPORT ==========
@@ -116,7 +111,7 @@ Percentage  : 85.0%
 ====================================
 ```
 
-# 🐍 Python Fundamentals Assignment – Solution
+## Python Fundamentals Assignment – Solution
 
 ```python
 # ==========================================
